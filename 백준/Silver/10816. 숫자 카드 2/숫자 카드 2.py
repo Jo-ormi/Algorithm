@@ -14,6 +14,6 @@ for n in N_list:
 
 for m in M_list:
     if m in N_list_dict:
-        print(N_list_dict[m], end=' ')    # 존재하는 숫자 카드라면
+        print(N_list_dict[m], end=' ')
     else:
         print(0, end=' ')    
