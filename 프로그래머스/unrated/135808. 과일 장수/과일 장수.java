@@ -13,9 +13,6 @@ class Solution {
                 cnt = 0;
             }
             
-            
-    
-          
         }
         
         return answer;
